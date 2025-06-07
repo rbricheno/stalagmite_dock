@@ -2,7 +2,7 @@
 
 A dock for the [Madmax](https://github.com/zruncho3d/madmax) toolchanger system.
 
-The same dock design supports both the Trident (2020) and the V0 (Makerbeam XL).
+The same dock design supports both the [Voron Trident](https://vorondesign.com/voron_trident) (2020) and the [Voron 0](https://vorondesign.com/voron0.2) (Makerbeam XL).
 
 Flip the STL so you can have one on each side 🙂
 
@@ -12,7 +12,7 @@ Here it is on a Voron Trident:
 
 ![](https://raw.githubusercontent.com/rbricheno/stalagmite_dock/refs/heads/main/Images/trident_dock_1920.jpg)
 
-Here is is on a (Pandora gantry) Voron Zero:
+Here is is on a ([Pandora gantry](https://github.com/MasturMynd/Pandora)) Voron Zero:
 
 ![](https://raw.githubusercontent.com/rbricheno/stalagmite_dock/refs/heads/main/Images/v0_dock_1920.jpg)
 
@@ -32,7 +32,7 @@ The spacers in my STLs and the fusion file are correct for my Pandora gantry V0 
 
 # CAD details
 
-Parametric design, following zruncho's "Configurations Lite" approach https://www.youtube.com/watch?v=n0W37SkbVsI
+Parametric design, following zruncho's ["Configurations Lite"](https://www.youtube.com/watch?v=n0W37SkbVsI) approach.
 
 Change "Type" from 0 to 1 to switch from Trident to V0
 
