@@ -1,6 +1,8 @@
 ## Stalagmite Dock for Madmax toolchanger
 
-The same design supports both the Trident and the V0.
+A dock for the [Madmax](https://github.com/zruncho3d/madmax) toolchanger system.
+
+The same dock design supports both the Trident (2020) and the V0 (Makerbeam XL).
 
 Flip the STL so you can have one on each side 🙂
 
