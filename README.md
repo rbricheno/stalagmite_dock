@@ -4,6 +4,8 @@ The same design supports both the Trident and the V0.
 
 Flip the STL so you can have one on each side 🙂
 
+Tested with DragonBrick. Other things might work.
+
 Here it is on a Voron Trident:
 
 ![](https://raw.githubusercontent.com/rbricheno/stalagmite_dock/refs/heads/main/Images/trident_dock_1920.jpg)
